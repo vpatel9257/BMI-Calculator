@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\IT 330\Assignment1-Vraj\bin\Debug\Assignment1-Vraj.exe.config
+\\vmware-host\Shared Folders\Desktop\IT 330\Assignment1-Vraj\bin\Debug\Assignment1-Vraj.exe
+\\vmware-host\Shared Folders\Desktop\IT 330\Assignment1-Vraj\bin\Debug\Assignment1-Vraj.pdb
+\\vmware-host\Shared Folders\Desktop\IT 330\Assignment1-Vraj\obj\Debug\Assignment1-Vraj.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\IT 330\Assignment1-Vraj\obj\Debug\Assignment1-Vraj.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\IT 330\Assignment1-Vraj\obj\Debug\Assignment1-Vraj.exe
+\\vmware-host\Shared Folders\Desktop\IT 330\Assignment1-Vraj\obj\Debug\Assignment1-Vraj.pdb
